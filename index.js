@@ -1,5 +1,5 @@
 const { leerInput, inquirerMenu, pausa } = require("./helpers/inquirer");
-const Busquedas = require("./models/busquedas"); //aaaaa
+const Busquedas = require("./models/busquedas"); 
 
 const main = async() => {
     
