@@ -1,0 +1,12 @@
+Para subir al git
+
+entrar a la carpeta del proyecto en el cmd
+
+iniciar con git init
+luego git add .
+
+then git commit -m "Mensaje" para guardar los cambios
+
+luego git remote add origin "link del proyecto sin las comillas"
+
+git push -u origin master para realizar los cambios dentro de github
